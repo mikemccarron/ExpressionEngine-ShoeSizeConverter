@@ -15,4 +15,5 @@ The above example will return the European woman equvilant for size 8 which is "
 **Acceptable Values**
 
 *Gender*: men, women, child
+
 *Countries*: usa, uk, china, australia, europe, mexico, japan
